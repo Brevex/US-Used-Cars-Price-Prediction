@@ -15,13 +15,21 @@
 <br><h2> &#128202; Analysis Result </h2><br>
 
 <details>
-	<summary>missing values percentage</summary><br>
-	<p>After importing the data, missing values were identified in some columns</p>
-	
-  	children: 0.003% 
-  	country: 0.409% 
-  	agent: 13.686% 
-  	company: 94.307%
+	<summary>Importance score for each variable</summary><br>
+	<p>The variable importance score in the context of the random forest algorithm indicates the importance of each
+	feature (variable) in predicting the target variable, which, in this case, is the price of the car. In other words, a variable 
+	is considered important if removing it from the model results in worse predictions. The importance of the variable is calculated 
+	for all trees in the forest and then the average is taken 5.</p>
+</details>
+
+<details>
+	<summary>Average horsepower by engine cylinders</summary><br>
+	<p></p>
+</details>
+
+<details>
+	<summary>Average horsepower score per engine</summary><br>
+	<p></p>
 </details>
 
 <br><h3 align = "center"> - By <a href = "https://www.linkedin.com/in/breno-barbosa-de-oliveira-810866275/" target = "_blank">Breno</a> - </h3>
