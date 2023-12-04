@@ -32,4 +32,10 @@
 	<p></p>
 </details>
 
+<details>
+	<summary>Price prediction</summary><br>
+	<p></p>
+</details>
+
+
 <br><h3 align = "center"> - By <a href = "https://www.linkedin.com/in/breno-barbosa-de-oliveira-810866275/" target = "_blank">Breno</a> - </h3>
