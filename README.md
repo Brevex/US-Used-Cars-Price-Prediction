@@ -2,7 +2,7 @@
 
 <h2> &#128269; About the project </h2><br>
 
-<p>A Machine learning model in Python that classifies the relationship between the efficiency of different engine models and other car characteristics.</p><br>
+<p>A machine learning model in Python that classifies the relationship between the efficiency of different engine models and other car characteristics.</p><br>
 
 <h2> &#128302; Technologies Used </h2><br>
 
