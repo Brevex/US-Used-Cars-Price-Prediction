@@ -1,4 +1,4 @@
-<h1 align = "center"> US Used Cars Data Analysis </h1><br>
+<h1 align = "center"> US Used Cars Price Prediction </h1><br>
 
 <h2> &#128269; About the project </h2><br>
 
