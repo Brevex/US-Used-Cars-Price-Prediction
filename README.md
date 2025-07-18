@@ -7,8 +7,8 @@
 <h2> &#128302; Technologies Used </h2><br>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py" />
+  <a href="https://github.com/syvixor/skills-icons">
+	  <img src="https://skills.syvixor.com/api/icons?i=python" alt="Skills">
   </a>
 </p>
 
